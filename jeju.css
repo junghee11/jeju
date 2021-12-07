@@ -14,6 +14,7 @@ body {font-family: 'Noto Sans KR', sans-serif;}
           color: white;
           background: url(../images/bg.png) no-repeat center bottom / cover;
           }
+#header a {color:white;}
 #header hgroup { padding-tap : 120px; }
 #header hgroup h1 { font-size : 100px;}
 #header hgroup h2 { font-size : 45px; font-weight : normal;}
